@@ -1,0 +1,2 @@
+# MyDjangoBlogs
+Django demp project
